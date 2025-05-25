@@ -1,4 +1,2 @@
-tensorflow 
-tensorflow-federated 
+tensorflow-federated
 matplotlib 
-numpy
