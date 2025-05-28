@@ -1,2 +1,5 @@
 tensorflow-federated
-matplotlib 
+matplotlib
+pandas
+seaborn
+dp-accounting
